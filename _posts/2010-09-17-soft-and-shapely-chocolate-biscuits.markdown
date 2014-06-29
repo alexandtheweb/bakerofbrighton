@@ -21,7 +21,7 @@ categories:
 tags:
 - chocolate
 ---
-<p><a href="images/2010/09/IMG_3031-copy.jpg"><img class="alignnone size-medium wp-image-319" title="Chocolate sandwich biscuits" src="/images/2010/09/IMG_3031-copy-620x465.jpg" alt="Chocolate sandwich biscuits" width="620" height="465" /></a></p>
+<p><a href="/images/2010/09/IMG_3031-copy.jpg"><img class="alignnone size-medium wp-image-319" title="Chocolate sandwich biscuits" src="/images/2010/09/IMG_3031-copy-620x465.jpg" alt="Chocolate sandwich biscuits" width="620" height="465" /></a></p>
 <p>I can't remember on what marvelous blog I stumbled across this recipe. Despite its simplicity, it yields - in my opinion - some of the most perfect chocolate biscuits. They keep their shape beautifully during baking, yet remain soft.  Mind you, this might have something to do with using egg yolks (instead of whole eggs) as well as massive quantities of butter. And while phrases such as "dangerously chocolatey" generally making me cringe, these guys just might be, especially when sandwiched with dark chocolate ganache.</p>
 <ul>
 <li>220g butter, softened</li>

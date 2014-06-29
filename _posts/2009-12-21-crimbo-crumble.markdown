@@ -21,7 +21,7 @@ tags:
 - pecan
 - apple
 ---
-<p><a href="images/2010/01/4198171194_11924eb49f_b.jpg"><img src="/images/2010/01/4198171194_11924eb49f_b-620x465.jpg" alt="Pecan Cranberry Crumble" title="Pecan Cranberry Crumble" width="620" height="465" class="alignnone size-medium wp-image-115" /></a></p>
+<p><a href="/images/2010/01/4198171194_11924eb49f_b.jpg"><img src="/images/2010/01/4198171194_11924eb49f_b-620x465.jpg" alt="Pecan Cranberry Crumble" title="Pecan Cranberry Crumble" width="620" height="465" class="alignnone size-medium wp-image-115" /></a></p>
 <p>Having parents who live in Texas means I'm never short of one of the most famous Texas crops: pecans. They arrive every few months, in giant half-kilo bags no less, and quickly make their way into my baked goods. Pecan pies, spiced sugar pecans, pecan-encrusted chicken - you name it. And now they just happened to fall into these lovely Christmasy treats, made for some friends' festive do. Although officially known as apple cranberry bars, I think I'll rename these "crimbo crumble bars". Incidentally, I can see these working really well with warm custard poured over them :-)</p>
 <p>RECIPE:</p>
 <p><strong>For the apple-cranberry-pecan mixture:<br />

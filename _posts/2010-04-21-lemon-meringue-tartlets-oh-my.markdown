@@ -20,7 +20,7 @@ categories:
 tags:
 - lemon
 ---
-<p><a href="images/2010/04/IMG_2381-copy.jpg"><img class="alignnone size-medium wp-image-195" title="Lemon meringue tartlets" src="/images/2010/04/IMG_2381-copy-620x464.jpg" alt="Lemon meringue tartlets" width="620" height="464" /></a></p>
+<p><a href="/images/2010/04/IMG_2381-copy.jpg"><img class="alignnone size-medium wp-image-195" title="Lemon meringue tartlets" src="/images/2010/04/IMG_2381-copy-620x464.jpg" alt="Lemon meringue tartlets" width="620" height="464" /></a></p>
 <p>There's something special about lemon meringue tarts. When I delivered these beauties to my chums at <a href="http://www.madgex.com">Madgex</a> there was a veritable sugar ecstasy in the air. I've yet to meet anyone who doesn't swoon at the site of these. Maybe it's the decadent piles of lightly caramelised meringue. Maybe it's their tangy summery-ness.  But the baking scientist in me suspects that the appeal is down to a trifecta of textures: crumbly crust, creamy custard, delicate foamy meringue. The LMT has it all.</p>
 <p>This recipe worked a treat, and I'm never quick to praise my own baking efforts. It has been loosely adapted from <a href="http://www.joyofbaking.com/LemonMeringueTart.html">Joy of Baking</a> and made about 7 tartlets. It all depends how generous you are with your custard filling and how thinly you roll your pastry.</p>
 <p>RECIPE:</p>

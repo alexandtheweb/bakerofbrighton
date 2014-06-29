@@ -23,7 +23,7 @@ tags:
 - walnut
 - coffee
 ---
-<p><a href="images/2010/06/IMG_2691-copy.jpg"><img src="/images/2010/06/IMG_2691-copy-620x465.jpg" alt="Coffee Walnut Bundt Cake" title="Coffee Walnut Bundt Cake" width="620" height="465" class="size-medium wp-image-224" /></a></p>
+<p><a href="/images/2010/06/IMG_2691-copy.jpg"><img src="/images/2010/06/IMG_2691-copy-620x465.jpg" alt="Coffee Walnut Bundt Cake" title="Coffee Walnut Bundt Cake" width="620" height="465" class="size-medium wp-image-224" /></a></p>
 <p>I'd been wondering why a stripey cake has been following me around - not literally - for a while now. Perhaps it's got something to do with this <a href="http://www.flickr.com/photos/cadavreexquis/3372303391/in/set-72157610279946402/">miniature tiger</a> I live with, whose striped hairs complete my outfits on a daily basis.</p>
 <p>In any case, when I stumbled across Dorie Greenspan's <a href="http://bit.ly/cYxPOA">marbled bundt cake</a>, I knew time had come to put my trusty bundt pan to use. along with some left over walnuts and chocolate that was gathering dust - again, not literally - in my cupboard.</p>
 <p>This dense, flavourful tea cake improves with time and with generous splatters of multicoloured glaze. A big thick slice would work equally well with a tall glass of milk or freshly brewed coffee. Making two batches of batter may seem like a hassle but the recipe comes together quickly if you plan ahead a bit. For example, I measured out the ingredients and readied the coffee/chocolate mixture in a bain marie while I was cooking dinner. After this, it all came together. Do make sure the cake is completely cooled before you spoon on the glaze (or glazes).</p>

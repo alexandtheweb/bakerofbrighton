@@ -21,7 +21,7 @@ categories:
 tags:
 - currant
 ---
-<p><a href="images/2010/07/IMG_2986-copy.jpg"><img class="alignnone size-medium wp-image-279" title="Currant cream cake" src="/images/2010/07/IMG_2986-copy-620x447.jpg" alt="Currant cream cake" width="620" height="447" /></a></p>
+<p><a href="/images/2010/07/IMG_2986-copy.jpg"><img class="alignnone size-medium wp-image-279" title="Currant cream cake" src="/images/2010/07/IMG_2986-copy-620x447.jpg" alt="Currant cream cake" width="620" height="447" /></a></p>
 <p>My recent obsessions: gelatine, any involving fresh berries, and <a href="http://www.realbakingwithrose.com/">Rose Levy Beranbaum</a>, the god-like (to us bakers) author of "The Cake Bible". All three somehow combined in this not-too-elegant but oh-so-delicious berry cake which really hit the spot with my co-workers today.</p>
 <p>This messy but summery creation is based on Rose's easy and delicious White Velvet butter cake as well as one of her stabilised whipped cream recipes. I ended up using only one of the two baked layers - the second can be eaten plain or used for whatever your heart desires. Try not to eat all of the cream before it ends up on the cake. It's all too easy. </p>
 <p>RECIPE:</p>

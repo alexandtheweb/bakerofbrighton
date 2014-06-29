@@ -20,7 +20,7 @@ categories:
 - Homepage
 tags: []
 ---
-<p><a href="images/2010/12/P1010282-copy.jpg"><img class="alignnone size-medium wp-image-385" title="Pandan coconut madeleines" src="/images/2010/12/P1010282-copy-620x465.jpg" alt="Pandan coconut madeleines" width="620" height="465" /></a><br />
+<p><a href="/images/2010/12/P1010282-copy.jpg"><img class="alignnone size-medium wp-image-385" title="Pandan coconut madeleines" src="/images/2010/12/P1010282-copy-620x465.jpg" alt="Pandan coconut madeleines" width="620" height="465" /></a><br />
 I was perusing Wikipedia's listing of various cake types and was troubled - troubled! - by the sheer number of cakes I either hadn't made or haven't heard of. But given my ongoing fixation with baking green things, one recipe stood out above all others: the mysterious pandan chiffon cake.</p>
 <p>Pandan, a variety of screwpine, is a plant used extensively in South-east Asian cooking. Its bright green extract pairs particularly well with coconut in sweet dishes such as rice puddings. It has a wonderful earthy perfume (not unlike that of jasmine, thank you Wikipedia), as I found out when I bought a tiny bottle of it in a local Asian supermarket. Sadly, most bought extracts use artificial green dye - a real plant would yield an equally deep colour.</p>
 <p>Back to the recipe. There was only one problem: I'm not a huge fan of chiffon cake. It's a gravity-defying feat in itself but tastes a bit boring and eggy and inevitably needs one form of garnish or another, such as whipped cream or fruit, to serve. I did make one but most of it ended up harshly tossed in the bin. Instead, I decided to put my recently acquired madeleine pan to use and made coconut pandan madelines.</p>

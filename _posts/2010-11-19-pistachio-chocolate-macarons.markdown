@@ -22,7 +22,7 @@ tags:
 - chocolate
 - pistachio
 ---
-<p><a href="images/2010/11/pistachio-macaron.jpg"><img src="/images/2010/11/pistachio-macaron-620x411.jpg" alt="Chocolate pistachio macaron" title="Chocolate pistachio macaron" width="620" height="411" class="alignnone size-medium wp-image-369" /></a></p>
+<p><a href="/images/2010/11/pistachio-macaron.jpg"><img src="/images/2010/11/pistachio-macaron-620x411.jpg" alt="Chocolate pistachio macaron" title="Chocolate pistachio macaron" width="620" height="411" class="alignnone size-medium wp-image-369" /></a></p>
 <p>Perusing the slowly expanding archives of this blog it's becoming quite obvious to me that: a) I'm obsessed with baking green things and b) I love baking with booze. I'm happy to say the two hobbies have now converged to make this little guy: a chocolate macaron filled with boozy pistachio buttercream. The boozy pistachio bit comes from my newly acquired, obscure <a href="http://www.austriangrocery.com/en/wine-spirits-beer/liqueurs_2/gersthofer_pistachio_liqueur">Austrian pistachio liqueur</a>, which brought me much delight when it finally arrived one lunchtime and came lazily slithering out of the bottle like so much thick pea soup - so much so I wandered back to work that afternoon reeking of alcohol. Having to pound the bottom of the bottle to get the liqueur to come oozing out wasn't the most appetizing thing in the world - but the green goodness itself was most delicious.</p>
 <p>The macarons turned out reasonably well. This batch were the first to dip into my epic 1kg bag of ground almonds. And really, when one buys a kilo of ground almonds perhaps there's another obsession one ought to confess to.</p>
 <p>RECIPE:</p>

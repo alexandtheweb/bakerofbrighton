@@ -22,7 +22,7 @@ tags:
 - strawberry
 - basil
 ---
-<p><a href="images/2010/06/IMG_2720-copy.jpg"><img class="alignnone size-medium wp-image-241" title="Strawberry basil tartlets" src="/images/2010/06/IMG_2720-copy-620x465.jpg" alt="Strawberry basil tartlets" width="620" height="465" /></a></p>
+<p><a href="/images/2010/06/IMG_2720-copy.jpg"><img class="alignnone size-medium wp-image-241" title="Strawberry basil tartlets" src="/images/2010/06/IMG_2720-copy-620x465.jpg" alt="Strawberry basil tartlets" width="620" height="465" /></a></p>
 <p>A few days ago my inner mad scientist conspired with my hatred of food wastage and zeroed in on a bunch of basil which was slowly wilting in the fridge. Binning it was out of the question, as was making yet another batch of pesto. Then I remembered an amazing cocktail I had in a cheesy bar in Brighton many years ago: a concoction of wild strawberry and basil. The cocktail has long vanished from the bar's menu but the pairing of strawberry and basil left a lasting impression. I had my inspiration! I made basil-infused pastry cream and used it to make strawberry tartlets that were every bit as good as I might have hoped.</p>
 <p>RECIPE:</p>
 <p><strong>Pastry (makes about 12 3" tartlets)</strong></p>

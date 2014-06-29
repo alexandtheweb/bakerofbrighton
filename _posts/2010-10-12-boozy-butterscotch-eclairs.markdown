@@ -21,7 +21,7 @@ categories:
 tags:
 - butterscotch
 ---
-<p><a href="images/2010/10/IMG_3075-copy.jpg"><img class="alignnone size-medium wp-image-331" title="Butterscotch eclairs" src="/images/2010/10/IMG_3075-copy-620x465.jpg" alt="Butterscotch eclairs" width="620" height="465" /></a></p>
+<p><a href="/images/2010/10/IMG_3075-copy.jpg"><img class="alignnone size-medium wp-image-331" title="Butterscotch eclairs" src="/images/2010/10/IMG_3075-copy-620x465.jpg" alt="Butterscotch eclairs" width="620" height="465" /></a></p>
 <p>I'd not made choux pastry in such a long time that when I casually attempted to make gougeres the other night I failed spectacularly. I didn't dry the dough after mixing in the flour and then underbaked the puffs, ending up with a flabby cheesy mess. Not one to let such a basic pastry skill elude me I embarked on a veritable choux-fest. Over the next few days, D was guaranteed to wander into the kitchen to encounter yet another tray of cooling cream puffs or eclairs.</p>
 <p>The best-looking batch was rewarded with a butterscotch cream filling, a new favourite experiment of mine. Flavoured with rum and sea salt, this is possibly the most lush, indulgent and somehow autumnal of creams. I wanted to take the butterscotch-iness of the eclairs a bit further by adding a dark sugar glaze, but this created a sugar overkill - a light sprinking of powdered sugar is all these guys needed after filling.</p>
 <p>RECIPE:</p>

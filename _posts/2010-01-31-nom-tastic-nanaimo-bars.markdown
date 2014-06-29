@@ -21,7 +21,7 @@ tags:
 - chocolate
 - coconut
 ---
-<p><a href="images/2010/01/IMG_1260-copy.jpg"><img class="alignnone size-medium wp-image-153" title="Nanaimo bars" src="/images/2010/01/IMG_1260-copy-620x465.jpg" alt="Nanaimo bars" width="620" height="465" /></a></p>
+<p><a href="/images/2010/01/IMG_1260-copy.jpg"><img class="alignnone size-medium wp-image-153" title="Nanaimo bars" src="/images/2010/01/IMG_1260-copy-620x465.jpg" alt="Nanaimo bars" width="620" height="465" /></a></p>
 <p>I'm not quite a <a href="http://thedaringkitchen.com/" target="_blank">Daring Baker</a> yet - I've only just signed up. But when I saw last month's challenge recipe,  I couldn't resist it - partly  because I already had so many of the necessary ingredients languishing in my cupboards and partly because of the appealingly, easy, no-bake recipe. Despite layering 3 very distinct flavours, Nanaimo bars really take on a character of their own, and the final result is a great chilled treat of flavours and textures.</p>
 <p>The recipe that follows is modified slightly from the one found on <a href="http://www.joyofbaking.com/NanaimoBars.html">Joy of Baking</a>.  I used English digestives instead of Graham crackers (which are alien to the UK) and the middle layer seemed to take much more than just 2-3 tablespoons of cream/milk suggested by the original recipe.</p>
 <p>Recipe:</p>

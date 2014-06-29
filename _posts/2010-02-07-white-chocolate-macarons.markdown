@@ -22,7 +22,7 @@ tags:
 - chocolate
 - almond
 ---
-<p><a href="images/2010/02/IMG_1384-copy.jpg"><img class="alignnone size-medium wp-image-159" title="Macaroon with white chocolate cream cheese filling" src="/images/2010/02/IMG_1384-copy-620x465.jpg" alt="Macaroon with white chocolate cream cheese filling" width="620" height="465" /></a></p>
+<p><a href="/images/2010/02/IMG_1384-copy.jpg"><img class="alignnone size-medium wp-image-159" title="Macaroon with white chocolate cream cheese filling" src="/images/2010/02/IMG_1384-copy-620x465.jpg" alt="Macaroon with white chocolate cream cheese filling" width="620" height="465" /></a></p>
 <p>Macarons - true, Parisian macarons - can easily become an obsession. With just four or five ingredients, they are nevertheless demanding little biscuits, requiring patience and preparation. The reward is a perfectly dainty almond shell ready to be sandwiched with any filling you can imagine. With today's batch, I finally managed to perfect their legendary "foot".  So begins - or continues - my little obsession. In the meantime, there are a couple of places in Brighton to get a small selection of the elusive, exquisite macaroons: the <a href="http://www.realpatisserie.co.uk/">Real Patisserie</a> and <a href="http://www.cocoabrighton.co.uk/">Cocoa</a>. Both Brighton baking legends.</p>
 <p>Recipe:</p>
 <ul>
