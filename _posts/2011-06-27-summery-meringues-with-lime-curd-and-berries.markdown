@@ -21,7 +21,7 @@ categories:
 tags:
 - lime
 ---
-<p><a href="http://localhost:8000/bakerofbrighton/wp-content/uploads/2011/06/P1030087.jpg"><img class="alignnone size-medium wp-image-511" title="Lime curd meringues" src="http://localhost:8000/bakerofbrighton/wp-content/uploads/2011/06/P1030087-620x445.jpg" alt="Lime curd meringues" width="620" height="445" /></a></p>
+<p><a href="images/2011/06/P1030087.jpg"><img class="alignnone size-medium wp-image-511" title="Lime curd meringues" src="/images/2011/06/P1030087-620x445.jpg" alt="Lime curd meringues" width="620" height="445" /></a></p>
 <p>Meringues are not miraculous. You beat a few egg whites and some sugar fiercely. You take the resulting pearly foam and   spoon or pipe onto a baking sheet. And then, after a while in a low oven... that's it, job done. Yet a few times now I've been met with awe at having managed to make these simplest of treats at home.  The truth is, when a welcome heatwave rolls around - as it did this weekend - and activates every lazy molecule in my baker's body there is nothing easier or better than a few fresh meringues you've made yourself to crush over ice cream or fill with berries. So that's exactly what I did.</p>
 <p>RECIPE:</p>
 <p><strong>Lime curd (ideally made a day ahead):</strong></p>

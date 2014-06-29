@@ -20,7 +20,7 @@ categories:
 - Homepage
 tags: []
 ---
-<p><a href="http://localhost:8000/bakerofbrighton/wp-content/uploads/2011/04/P1020216-copy.jpg"><img class="alignnone size-medium wp-image-466" title="Sesame sandwich cookies" src="http://localhost:8000/bakerofbrighton/wp-content/uploads/2011/04/P1020216-copy-620x465.jpg" alt="Sesame sandwich cookies" width="620" height="465" /></a><br />
+<p><a href="images/2011/04/P1020216-copy.jpg"><img class="alignnone size-medium wp-image-466" title="Sesame sandwich cookies" src="/images/2011/04/P1020216-copy-620x465.jpg" alt="Sesame sandwich cookies" width="620" height="465" /></a><br />
 ...or shall I call these Tahini Treats? If you love the earthy taste of sesame, these guys are for you. They came about from a failed attempt to make halva, in its Middle-eastern guise of sweetened sesame paste. After boiling honey to a soft ball stage, adding in piles of tahini and storing the resulting mass in the fridge, I ended up with what can only be described as sesame fudge. It was, to be certain, delicious sesame fudge but it certainly wasn't halva! The fudgy goop was far too sweet to be enjoyed on its own so, using a simple, reliable sugar biscuit recipe, I decided to use it as a filling.</p>
 <p>The result is quite nice: a crumbly cookie with extra sesame-ness added by seeds sprinkled on during baking.</p>
 <p>RECIPE:</p>

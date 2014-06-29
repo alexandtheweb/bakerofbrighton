@@ -21,7 +21,7 @@ categories:
 tags:
 - cardamom
 ---
-<p><a href="http://localhost:8000/bakerofbrighton/wp-content/uploads/2010/05/IMG_2684-copy.jpg"><img class="size-medium wp-image-213" title="Cardamom cranberry oatmeal cookies" src="http://localhost:8000/bakerofbrighton/wp-content/uploads/2010/05/IMG_2684-copy-620x435.jpg" alt="Cardamom cranberry oatmeal cookies" width="620" height="435" /></a></p>
+<p><a href="images/2010/05/IMG_2684-copy.jpg"><img class="size-medium wp-image-213" title="Cardamom cranberry oatmeal cookies" src="/images/2010/05/IMG_2684-copy-620x435.jpg" alt="Cardamom cranberry oatmeal cookies" width="620" height="435" /></a></p>
 <p>These cardamom cranberry cookies, or the fabulous CCCs, are a twist on the classic oatmeal raisin cookie. With just two little changes to the traditional ingredients we get something new and exotic! Well, ok, it's just a little twist, but enough to make these cookie jar staples a bit more exciting.  They're also soft, chewy and keep very well - although less so in a glass cookie jar, from which they mysteriously vanish.</p>
 <p>RECIPE: </p>
 <ul>

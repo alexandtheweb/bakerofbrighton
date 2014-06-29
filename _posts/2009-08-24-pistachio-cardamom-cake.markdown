@@ -21,7 +21,7 @@ tags:
 - pistachio
 - cardamom
 ---
-<p><a href="http://localhost:8000/bakerofbrighton/wp-content/uploads/2010/01/3843355598_0cb1c190eb_b.jpg"><img src="http://localhost:8000/bakerofbrighton/wp-content/uploads/2010/01/3843355598_0cb1c190eb_b-620x461.jpg" alt="Pistachio Cardamon Cake" title="Pistachio Cardamon Cake" width="620" height="461" class="alignnone size-medium wp-image-114" /></a></p>
+<p><a href="images/2010/01/3843355598_0cb1c190eb_b.jpg"><img src="/images/2010/01/3843355598_0cb1c190eb_b-620x461.jpg" alt="Pistachio Cardamon Cake" title="Pistachio Cardamon Cake" width="620" height="461" class="alignnone size-medium wp-image-114" /></a></p>
 <p>I've been a bit obsessed with spicy, exotic flavours lately. A bottle of ground cardamom that had been languishing in the back of my space cupboard for ages now has now been rediscovered and last week made it into the <a href="http://www.flickr.com/photos/cadavreexquis/3804736124/in/set-72157594244161609/">chai tea cake</a>. And now <a href="http://www.mytartelette.com/2008/08/cashew-gateau-with-coffee-cardamom.html">this recipe</a> from the brilliant Tartlette  provided further inspiration for its use.</p>
 <p>Lacking the cashew nuts required by the recipe, I used the same quantity of unsalted pistachios instead (another recent obsession). I also added a pinch of cardamom to the batter and absent-mindedly forgot the butter.  The result was gorgeous.  I worried about the cardamom cream at first as it was a bit too thin but in the end it set nicely - gelatin is still unfamiliar territory for me. Lovely contrast of textures  - creamy and crunchy. No turning back on the cardamom now... I might start adding a pinch to my morning coffee!</p>
 <p>Recipe:</p>

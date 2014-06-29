@@ -21,7 +21,7 @@ categories:
 tags:
 - rose
 ---
-<p><a href="http://localhost:8000/bakerofbrighton/wp-content/uploads/2011/03/P1010941-copy.jpg"><img class="alignnone size-medium wp-image-452" title="Turkish delight macarons" src="http://localhost:8000/bakerofbrighton/wp-content/uploads/2011/03/P1010941-copy-620x440.jpg" alt="Turkish delight macarons" width="620" height="440" /></a></p>
+<p><a href="images/2011/03/P1010941-copy.jpg"><img class="alignnone size-medium wp-image-452" title="Turkish delight macarons" src="/images/2011/03/P1010941-copy-620x440.jpg" alt="Turkish delight macarons" width="620" height="440" /></a></p>
 <p>Is there any confection more contentious than Turkish delight? Some relish it as an exotic treat, others scorn it as slimy, perfumy gloop. Personally, I don't feel strongly about it either way. I don't crave it, I won't refuse it if it's on offer. But I did want, for the longest time, to make Turkish delight macarons. The time had finally come.</p>
 <p>Why? Well, I've long wanted to sandwich my macarons with perfect fillings <em>cut out with the help of a cookie cutter</em>. Turkish delight seemed like the perfect candidate: strongly flavoured, very sweet and soft, but firm enough to be cut.</p>
 <p>I didn't quite succeed and I blame it on never having made Turkish delight before. The mixture almost, almost set to a perfect firmness but wasn't quite firm enough to allow me to cut out little ovals of it and slide them into the macarons. I ended up slopping spoonfuls of the fragrant stuff into the biscuits. But the result was, I think, still very pretty, especially as light shone through the slightly translucent filling.</p>

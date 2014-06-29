@@ -19,7 +19,7 @@ categories:
 - Uncategorized
 tags: []
 ---
-<p><img class="alignnone size-thumbnail wp-image-75" title="me" src="http://localhost:8000/bakerofbrighton/wp-content/uploads/2009/11/me-267x167.jpg" alt="" width="267" height="167" /></p>
+<p><img class="alignnone size-thumbnail wp-image-75" title="me" src="/images/2009/11/me-267x167.jpg" alt="" width="267" height="167" /></p>
 <p>Hi, I'm Alex, a designer by day and baker by every other spare minute. I live in beautiful Brighton, home to some <a href="http://localhost:8000/bakerofbrighton/brighton-baking-guide/">great chocolate makers and patisseries</a>.</p>
 <p>My fondness for baking escalated about 2 years ago, when I realised what a fantastic creative outlet it could be. Losing myself in something tangible and non-computery was a wonderful release and I've since made everything from breads to delicate genoise to cupcakes and macaroons. Not to mention that I've found kneading dough is great for RSI :-)</p>
 <h3>Contacting me about baking for you</h3>

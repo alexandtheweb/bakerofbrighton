@@ -22,7 +22,7 @@ tags:
 - cardamom
 - plum
 ---
-<p><a href="http://localhost:8000/bakerofbrighton/wp-content/uploads/2010/01/IMG_0076-copy.jpg"><img src="http://localhost:8000/bakerofbrighton/wp-content/uploads/2010/01/IMG_0076-copy-620x459.jpg" alt="Plum spice cake" title="Plum spice cake" width="620" height="459" class="alignnone size-medium wp-image-150" /></a></p>
+<p><a href="images/2010/01/IMG_0076-copy.jpg"><img src="/images/2010/01/IMG_0076-copy-620x459.jpg" alt="Plum spice cake" title="Plum spice cake" width="620" height="459" class="alignnone size-medium wp-image-150" /></a></p>
 <p>Naughty naughty plums. I do try to buy regional and seasonal fruit and veg but I just couldn't say no to these South African beauties when I saw them languishing in my local supermarket. Things just get too depressing on the fruit front during the long English winter, it's all citrus, more citrus and increasingly pathetic apples and pears. Come ooooon rhubarb, I can't wait.</p>
 <p>Plums have that smokey sweetness that lends itself well to pairings with spices and meats. I reckon this recipe can easily be altered to include fresh grated ginger or any other slightly fiesty flavouring. This version uses mandarin zest, cardamom and cinnamon.</p>
 <p>Recipe:</p>

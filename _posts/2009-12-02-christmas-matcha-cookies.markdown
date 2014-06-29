@@ -19,7 +19,7 @@ categories:
 - Recipe Archive
 tags: []
 ---
-<p><a href="http://localhost:8000/bakerofbrighton/wp-content/uploads/2010/01/4136346749_60787555f3_b.jpg"><img src="http://localhost:8000/bakerofbrighton/wp-content/uploads/2010/01/4136346749_60787555f3_b-620x465.jpg" alt="Matcha Cookies" title="Matcha Cookies" width="620" height="465" class="alignnone size-medium wp-image-113" /></a></p>
+<p><a href="images/2010/01/4136346749_60787555f3_b.jpg"><img src="/images/2010/01/4136346749_60787555f3_b-620x465.jpg" alt="Matcha Cookies" title="Matcha Cookies" width="620" height="465" class="alignnone size-medium wp-image-113" /></a></p>
 <p>Matcha, the very fine, very bright green tea powder, has eluded me until now - I found it on sale in the wonderful Yum Yum Asian market on Sydney Street in Brighton. The new treasure in hand, I was a bit overwhelmed and didn't know what to bake with it.</p>
 <p>Then it occurred to me to add matcha to one of my favourite cut cookie recipes: Dorie Greenspan's linzer cookies. Instant Christmasy glee! See, I'm not normally a fan of cut cookies: they either tear when you're trying to transfer their delicate shapes onto a baking sheet or they lose their shape in the oven. But these are stellar and very easy to make. Not to mention that the earthy cinnamon already in the recipe goes well with the delicate tea flavour of matcha.</p>
 <p>RECIPE</p>

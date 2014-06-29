@@ -22,7 +22,7 @@ tags:
 - chocolate
 - hazelnut
 ---
-<p><a href="http://localhost:8000/bakerofbrighton/wp-content/uploads/2010/03/IMG_2252.jpg"><img class="alignnone size-medium wp-image-170" title="Toasted hazelnut and chocolate cake" src="http://localhost:8000/bakerofbrighton/wp-content/uploads/2010/03/IMG_2252-620x458.jpg" alt="Toasted hazelnut and chocolate cake" width="620" height="458" /></a></p>
+<p><a href="images/2010/03/IMG_2252.jpg"><img class="alignnone size-medium wp-image-170" title="Toasted hazelnut and chocolate cake" src="/images/2010/03/IMG_2252-620x458.jpg" alt="Toasted hazelnut and chocolate cake" width="620" height="458" /></a></p>
 <p>"Hazelnut and chocolate cake with nutella icing" sounds pretty enticing. "<strong>Toasted </strong>hazelnut and chocolate cake with nutella icing" sounds even better. What is it about toasting? A few minutes in the oven and the hazelnuts filled the house with their perfume and warmth. And the simple but indulgent cake to which they became party went down a treat.</p>
 <p>RECIPE:</p>
 <ul>

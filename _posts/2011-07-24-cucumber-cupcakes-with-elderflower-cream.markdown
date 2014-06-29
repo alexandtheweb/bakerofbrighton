@@ -20,7 +20,7 @@ categories:
 tags:
 - cucumber
 ---
-<p><a href="http://localhost:8000/bakerofbrighton/wp-content/uploads/2011/07/5944023066_8df10c7174_b1.jpg" _mce_href="http://localhost:8000/bakerofbrighton/wp-content/uploads/2011/07/5944023066_8df10c7174_b1.jpg"><img class="alignnone size-medium wp-image-522" title="Cucumber cupcakes with elderflower cream" src="http://localhost:8000/bakerofbrighton/wp-content/uploads/2011/07/5944023066_8df10c7174_b1-620x465.jpg" _mce_src="http://localhost:8000/bakerofbrighton/wp-content/uploads/2011/07/5944023066_8df10c7174_b1-620x465.jpg" alt="Cucumber cupcakes with elderflower cream" width="620" height="465"></a></p>
+<p><a href="images/2011/07/5944023066_8df10c7174_b1.jpg" _mce_href="images/2011/07/5944023066_8df10c7174_b1.jpg"><img class="alignnone size-medium wp-image-522" title="Cucumber cupcakes with elderflower cream" src="/images/2011/07/5944023066_8df10c7174_b1-620x465.jpg" _mce_src="/images/2011/07/5944023066_8df10c7174_b1-620x465.jpg" alt="Cucumber cupcakes with elderflower cream" width="620" height="465"></a></p>
 <p>You may have noticed that at the bottom of this blog's homepage I've catalogued my recipes roughly by flavour or ingredient. Most categories now have a few entries; &nbsp;those that don't surely will in the future. Except, perhaps, one.</p>
 <p>Those of us who seek inspiration know that it generally comes from the most unexpected sources. Whether it's good inspiration, however, can be entirely arguable, especially in the case of these cupcakes. <strong>Cucumber cupcakes. With cucumber.</strong></p>
 <ul></ul>

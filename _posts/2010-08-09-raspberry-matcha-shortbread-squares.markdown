@@ -20,7 +20,7 @@ categories:
 - Homepage
 tags: []
 ---
-<p><a href="http://localhost:8000/bakerofbrighton/wp-content/uploads/2010/08/IMG_2990-copy.jpg"><img class="alignnone size-medium wp-image-288" title="Raspberry matcha shortbread squares" src="http://localhost:8000/bakerofbrighton/wp-content/uploads/2010/08/IMG_2990-copy-620x456.jpg" alt="Raspberry matcha shortbread squares" width="620" height="456" /></a></p>
+<p><a href="images/2010/08/IMG_2990-copy.jpg"><img class="alignnone size-medium wp-image-288" title="Raspberry matcha shortbread squares" src="/images/2010/08/IMG_2990-copy-620x456.jpg" alt="Raspberry matcha shortbread squares" width="620" height="456" /></a></p>
 <p>Once you've grasped the idea behind a classic recipe, the temptation to play around with it begins to creep in. This was the case of classic lemon bars, which I'd made so many times that I couldn't help but think: surely it's time to get experimental. The inspiration came from <a href="http://www.thedailyspud.com/2010/07/14/lemon-bars-shortbread-redcurrants/#comment-35897">this blog</a>, which, instead of a lemony custard topping, used lovely, tart red currants. I wanted even more vivid colours in my variation: so a matcha-tinged shortbread base and an almost magenta pink raspberry custard. Crumbs, they were good.</p>
 <p>RECIPE:</p>
 <p><strong>Shortbread base:</strong></p>

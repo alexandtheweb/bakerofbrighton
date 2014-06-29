@@ -22,7 +22,7 @@ tags:
 - almond
 - apricot
 ---
-<p><a rel="attachment wp-att-531" href="http://localhost:8000/bakerofbrighton/apricot-frangipane-tartlets/p1030277-copy/"><img class="alignnone size-medium wp-image-531" title="Apricot frangipane tart" src="http://localhost:8000/bakerofbrighton/wp-content/uploads/2011/09/P1030277-copy-620x465.jpg" alt="Apricot frangipane tart" width="620" height="465" /></a></p>
+<p><a rel="attachment wp-att-531" href="http://localhost:8000/bakerofbrighton/apricot-frangipane-tartlets/p1030277-copy/"><img class="alignnone size-medium wp-image-531" title="Apricot frangipane tart" src="/images/2011/09/P1030277-copy-620x465.jpg" alt="Apricot frangipane tart" width="620" height="465" /></a></p>
 <p>Has it really been  more than a month? The last recipe I posted here, with its cucumber and elderflower flavours, tried to captured the height of summer. This one feels like summer's crescendo. There is something about plums and apricots, the way their flavours change, intensify and darken during baking that defines early autumn for me. And autumn has certainly arrived with fierce conviction,  first with mists and then with lashing winds and rain as soon as September began. Now that it's made its point, the season has settled into sparkling cool mornings and first fallen leaves. And perhaps it's this that made me think that the apricots in these little tarts looked like they were buried in the frangipane like in a warm duvet.</p>
 <p>This recipe is so easy and plums or other season fruit - even apples - can easily be substituted.</p>
 <p>RECIPE:</p>

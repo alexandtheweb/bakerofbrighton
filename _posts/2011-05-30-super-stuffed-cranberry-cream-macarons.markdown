@@ -21,7 +21,7 @@ categories:
 tags:
 - cranberry
 ---
-<p><a href="http://localhost:8000/bakerofbrighton/wp-content/uploads/2011/05/P1020268-copy.jpg"><img class="alignnone size-medium wp-image-478" title="Cranberry cream macarons" src="http://localhost:8000/bakerofbrighton/wp-content/uploads/2011/05/P1020268-copy-620x465.jpg" alt="Cranberry cream macarons" width="620" height="465" /></a><br />
+<p><a href="images/2011/05/P1020268-copy.jpg"><img class="alignnone size-medium wp-image-478" title="Cranberry cream macarons" src="/images/2011/05/P1020268-copy-620x465.jpg" alt="Cranberry cream macarons" width="620" height="465" /></a><br />
 These guys have really let themselves go, wouldn't you say? While most macarons are sveltly stuffed with a dollop of filling, these are teetering precariously with a greedy helping of cranberry cream. I couldn't be more pleased with them!</p>
 <p>After faffing about with a few versions of stabilised fruit cream I settled on this cranberry edition, using some frozen cranberries that have been languishing about the freezer since Christmas. The cranberry cream rounds are easy enough to cut out - just use a small, plain cookie cutter and voila.</p>
 <p>Note: this is a make-ahead recipe, as the cream needs to set for at least 2-3 hours, but preferably overnight.</p>
