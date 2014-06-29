@@ -1,3 +1,4 @@
 name: Baker of Brighton
 markdown: redcarpet
 pygments: true
+exclude: [CNAME]
