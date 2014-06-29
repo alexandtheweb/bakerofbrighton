@@ -1,0 +1,26 @@
+---
+layout: page
+status: publish
+published: true
+title: About your host
+author:
+  display_name: alexg
+  login: admin
+  email: alex.goluszko@gmail.com
+  url: http://www.alexandtheweb.com
+author_login: admin
+author_email: alex.goluszko@gmail.com
+author_url: http://www.alexandtheweb.com
+wordpress_id: 2
+wordpress_url: http://localhost:8000/bakerofbrighton/?page_id=2
+date: '2009-11-14 11:41:28 +0000'
+date_gmt: '2009-11-14 11:41:28 +0000'
+categories:
+- Uncategorized
+tags: []
+---
+<p><img class="alignnone size-thumbnail wp-image-75" title="me" src="/images/2009/11/me-267x167.jpg" alt="" width="267" height="167" /></p>
+<p>Hi, I'm Alex, a designer by day and baker by every other spare minute. I live in beautiful Brighton, home to some <a href="http://localhost:8000/bakerofbrighton/brighton-baking-guide/">great chocolate makers and patisseries</a>.</p>
+<p>My fondness for baking escalated about 2 years ago, when I realised what a fantastic creative outlet it could be. Losing myself in something tangible and non-computery was a wonderful release and I've since made everything from breads to delicate genoise to cupcakes and macaroons. Not to mention that I've found kneading dough is great for RSI :-)</p>
+<h3>Contacting me about baking for you</h3>
+<p>I love baking for parties, special occasions and charity events. If you'd like my help in creating that perfect , just use the contact form below. </p>

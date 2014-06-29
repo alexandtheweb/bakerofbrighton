@@ -1,0 +1,47 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Pistachio cardamom cake '
+author:
+  display_name: alexg
+  login: admin
+  email: alex.goluszko@gmail.com
+  url: http://www.alexandtheweb.com
+author_login: admin
+author_email: alex.goluszko@gmail.com
+author_url: http://www.alexandtheweb.com
+wordpress_id: 64
+wordpress_url: http://localhost:8000/bakerofbrighton/?p=64
+date: '2009-08-24 15:54:07 +0100'
+date_gmt: '2009-08-24 15:54:07 +0100'
+categories:
+- Recipe Archive
+tags:
+- pistachio
+- cardamom
+---
+<p><a href="/images/2010/01/3843355598_0cb1c190eb_b.jpg"><img src="/images/2010/01/3843355598_0cb1c190eb_b-620x461.jpg" alt="Pistachio Cardamon Cake" title="Pistachio Cardamon Cake" width="620" height="461" class="alignnone size-medium wp-image-114" /></a></p>
+<p>I've been a bit obsessed with spicy, exotic flavours lately. A bottle of ground cardamom that had been languishing in the back of my space cupboard for ages now has now been rediscovered and last week made it into the <a href="http://www.flickr.com/photos/cadavreexquis/3804736124/in/set-72157594244161609/">chai tea cake</a>. And now <a href="http://www.mytartelette.com/2008/08/cashew-gateau-with-coffee-cardamom.html">this recipe</a> from the brilliant Tartlette  provided further inspiration for its use.</p>
+<p>Lacking the cashew nuts required by the recipe, I used the same quantity of unsalted pistachios instead (another recent obsession). I also added a pinch of cardamom to the batter and absent-mindedly forgot the butter.  The result was gorgeous.  I worried about the cardamom cream at first as it was a bit too thin but in the end it set nicely - gelatin is still unfamiliar territory for me. Lovely contrast of textures  - creamy and crunchy. No turning back on the cardamom now... I might start adding a pinch to my morning coffee!</p>
+<p>Recipe:</p>
+<p><strong>Pistachio cardamom cake (instructions same as <a href="http://www.mytartelette.com/2008/08/cashew-gateau-with-coffee-cardamom.html">Tartlette's</a>)</strong></p>
+<ul>
+<li>3/4 cups pistachios</li>
+<li>1/3 cup cake flour, unsifted</li>
+<li>1 Tbsp. cornstarch</li>
+<li>3 large egg yolks</li>
+<li>1/2 cup sugar, divided (2Tb &amp; 6 Tb)</li>
+<li>1/2 tsp. vanilla extract</li>
+<li>½ tsp. grated lemon rind</li>
+<li>2 lg. egg whites</li>
+<li>2 Tb melted butter, cooled</li>
+</ul>
+<p><strong>Coffee cardamom mousse:</strong></p>
+<ul>
+<li>1/2 teaspoon ground cardamom</li>
+<li>1/2 cup espresso or strong coffee</li>
+<li>1/4 cup sugar</li>
+<li>1 tsp powdered unflavored gelatin, softened in 1 tablespoon cold water</li>
+<li>1 cup heavy cream, cold</li>
+</ul>

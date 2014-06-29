@@ -1,0 +1,57 @@
+---
+layout: post
+status: publish
+published: true
+title: Catalan cream tart
+author:
+  display_name: alexg
+  login: admin
+  email: alex.goluszko@gmail.com
+  url: http://www.alexandtheweb.com
+author_login: admin
+author_email: alex.goluszko@gmail.com
+author_url: http://www.alexandtheweb.com
+wordpress_id: 485
+wordpress_url: http://localhost:8000/bakerofbrighton/?p=485
+date: '2011-06-11 19:53:51 +0100'
+date_gmt: '2011-06-11 19:53:51 +0100'
+categories:
+- Recipe Archive
+- Homepage
+tags:
+- cinnamon
+---
+<p><a href="/images/2011/06/P1020906.jpg"><img class="alignnone size-medium wp-image-502" title="Catalan cream tart" src="/images/2011/06/P1020906-620x416.jpg" alt="Catalan cream tart" width="620" height="416" /></a></p>
+<p>We spent a glorious week in Spain recently - a few days in Seville, a few days in Barcelona - and naturally ended up stuffing ourselves full of queso, iberian ham and patatas bravas (all washed down with sangria and a vast variety of Spanish lagers, of course). But while we were busy cooling off with ice cream for dessert, we missed out on some traditional Spanish sweets. While in Barcelona I did manage to scoff a whole box of marzipan cakes from the beautiful <a href="http://www.caelumbarcelona.com/">Caelum</a> bakery in Barcelona (which specialises in monastic sweets) but that was as close as we came to authentic treats.</p>
+<p>I felt a bit ashamed for not doing my research on Spanish baking traditions.  Tracking down local specialities become something of a compulsion on my travels:  discovering Brittany's far breton, nearly becoming ill from too many of Lisbon's pasteis de natas or rushing home from a weekend break in Vienna to recreate the elaborate Esterhazy torte . So just before boarding our flight out of Barcelona, I guiltily bought a hefty 1lt bottle of catalan cream liqueur, as a form of penance for not hunting down a truer version of this classic treat.</p>
+<p>I knew of crema catalana's resemblance to creme brulee but didn't know precisely how they differed. Turns out Catalan cream is spiced with cinnamon and citrus - yum! I proceeded to make my own humble version  of the classic, turning it into tart form and finally putting the hastily purchased booze to good use.</p>
+<p>This is a relatively simple recipe. The only tricky bit is caramelising the cream that's been poured into a baked crust. The obvious work-around is to use a creme brulee torch but if you don't have one - alas, I don't - you can still caramelise the sugar under your grill, but wrapping the tart's pastry edges in kitchen foil. Which is exactly what I didn't do and - as you can probably guess from the charred edges of the tart - filled the house with the smell of burning chocolate pastry. And I can't say my first attempt at caramelizing Still - delish!</p>
+<p>RECIPE:</p>
+<p>Note: This takes a bit of time. There is the chilling of the pastry dough (about 30 minutes) and the pastry cream should also be left to chill for a few hours in the fridge. I would suggest the pastry cream and dough be made the day ahead. This done, the assembly is fairly quick.</p>
+<p><strong>Chocolate pastry crust:</strong></p>
+<ul>
+<li>175g plain flour</li>
+<li>30g cocoa powder</li>
+<li>50g caster sugar</li>
+<li>1/4 teaspoon salt</li>
+<li>125g unsalted butter</li>
+<li>1 egg yolk</li>
+<li>1 tbsp iced water</li>
+</ul>
+<p><strong>Catalan pastry cream:</strong></p>
+<ul>
+<li>2 cups whole milk</li>
+<li>1 large cinnamon stick</li>
+<li>100g sugar</li>
+<li>45g corn flour</li>
+<li>6 egg yolks</li>
+<li>30g butter</li>
+<li>orange or lemon grind</li>
+<li>2-3 tablespoon of Crema Catalana liqueur (if available)</li>
+<li>2-3 tablespoons granulated or demerra sugar for sprinkling</li>
+</ul>
+<p>For the pastry: blitz the dry ingredients in the food processor. Cut the cold butter into smallish squares and add to the mixture, whizzing quickly until the mixture resembles (chocolatey) sand. Add the egg yolk and ice water and blitz again until the pastry comes together (you may need a wee more ice water). Turn out onto some cling film, press into a square and chill for at least 30 minutes.</p>
+<p>Preheat the oven to 180 degrees. Roll out the pastry to line a 9" shalllow tart pan, pricking all over with a fork and pop it back in the fridge while the oven is heating. Line with parchment paper and baking beans and bake for 15-20 minutes.</p>
+<p>For the cream: put the milk and cinnamon in a heavy pan and bring to a boil. Turn off immediately and set aside, letting the milk infuse for about an hour. Strain the milk through a fine sieve or a cheesecloth into a clean pan and reheat gently (but do not boil). Meanwhile, whisk together the sugar, egg yolks and corn flour. Slowly drizzle in about one third of the milk into the yolk mixture, whisking constantly. Add the warmed yolks back into the pan and, still whisking, cook over medium heat until the cream thickens. Remove and strain into a bowl, then add the butter, citrus zest and liqueur if available. Cover the surface with cling film and leave to cool to room temperature. Refrigerate for 2-3 hours until completely set.</p>
+<p>Fill the cooled baked pastry with the cream, smoothing it as evenly as possible. If you have a creme brulee torch, sprinkle the remaining sugar evenly onto the cream and torch away. If not, heat up the grill and, only when it is quite hot (I put mine on high) sprinkle on the sugar and let it caramelize under the grill for about 10 minutes. Keep an eye on it - depending on how hot your grill us, the sugar can caramelize faster! Add a final sprinkling of cinnamon if desired.</p>
+<p>This is best eaten the same day - I found the caramelized sugar started to "weep" a few hours after being refrigerated! Enjoy.</p>
