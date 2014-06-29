@@ -16,7 +16,7 @@ wordpress_url: http://localhost:8000/bakerofbrighton/?p=8
 date: '2009-12-01 10:27:30 +0000'
 date_gmt: '2009-12-01 10:27:30 +0000'
 categories:
-- Tips &amp; core recipes
+- Tips and core recipes
 tags: []
 ---
 <p>I used to dismiss the call for cake flour in recipes as a bit of a pretension - it also seems impossible to find it in your everyday supermarket! However, cake flour really does make cakes lighter and more delicate. Here is the home-made version:</p>

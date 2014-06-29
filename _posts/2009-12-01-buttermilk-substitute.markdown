@@ -16,7 +16,7 @@ wordpress_url: http://localhost:8000/bakerofbrighton/?p=4
 date: '2009-12-01 10:24:24 +0000'
 date_gmt: '2009-12-01 10:24:24 +0000'
 categories:
-- Tips &amp; core recipes
+- Tips and core recipes
 tags: []
 ---
 <p>Many American recipes call for buttermilk in cakes and muffins but if I can't be bothered looking for it around Brighton (Infinity Foods is a good source) I can always make my own:</p>

@@ -16,7 +16,7 @@ wordpress_url: http://localhost:8000/bakerofbrighton/?p=6
 date: '2009-12-01 10:25:38 +0000'
 date_gmt: '2009-12-01 10:25:38 +0000'
 categories:
-- Tips &amp; core recipes
+- Tips and core recipes
 tags: []
 ---
 <p>I can't count the times I've run out of self-raising flour! But a home edition works just as well as the store-bought stuff, you can only make as much as you need, and you don't have to worry about the flour being off (unless your baking powder is - always check the expiration date!). Self-raising flour does have a shelf life of about 6 months.</p>

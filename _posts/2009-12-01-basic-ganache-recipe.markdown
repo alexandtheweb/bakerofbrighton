@@ -16,7 +16,7 @@ wordpress_url: http://localhost:8000/bakerofbrighton/?p=13
 date: '2009-12-01 10:35:54 +0000'
 date_gmt: '2009-12-01 10:35:54 +0000'
 categories:
-- Tips &amp; core recipes
+- Tips and core recipes
 tags:
 - chocolate
 ---

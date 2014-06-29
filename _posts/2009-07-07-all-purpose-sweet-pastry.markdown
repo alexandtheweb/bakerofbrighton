@@ -16,7 +16,7 @@ wordpress_url: http://localhost:8000/bakerofbrighton/?p=59
 date: '2009-07-07 15:47:26 +0100'
 date_gmt: '2009-07-07 15:47:26 +0100'
 categories:
-- Tips &amp; core recipes
+- Tips and core recipes
 tags:
 - pastry
 ---
