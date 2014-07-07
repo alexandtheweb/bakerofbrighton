@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2010/06/IMG_2691-copy-620x465.jpg
 published: true
 title: Stripey Coffee Walnut Bundt Cake
 author:

@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2010/10/P1000194-copy.jpg
 published: true
 title: Buckwheat honey tarts
 author:

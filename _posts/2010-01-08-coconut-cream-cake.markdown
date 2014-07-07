@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2010/01/4256224205_86fcb00615_b.jpg
 published: true
 title: Coconut cream cake
 author:

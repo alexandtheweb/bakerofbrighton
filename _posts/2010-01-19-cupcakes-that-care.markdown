@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2010/01/4288652576_e626e65f1a_b.jpg
 published: true
 title: Cupcakes that care
 author:

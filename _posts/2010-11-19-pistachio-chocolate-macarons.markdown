@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2010/11/pistachio-macaron-620x411.jpg
 published: true
 title: Pistachio chocolate macarons
 author:

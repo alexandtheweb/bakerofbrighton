@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2010/04/IMG_2345-copy.jpg
 published: true
 title: Brighton Chocolate Invasion!
 author:

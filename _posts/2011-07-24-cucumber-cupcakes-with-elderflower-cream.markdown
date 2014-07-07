@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2011/07/5944023066_8df10c7174_b1-620x465.jpg
 published: true
 title: Cucumber cupcakes with elderflower cream
 author:

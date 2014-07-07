@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2010/08/4888147719_c29c57954e_b-620x465.jpg
 published: true
 title: 'Giving cakes: greengage hazelnut tart'
 author:

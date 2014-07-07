@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: 
 published: true
 title: Festive toff-fudge
 author:

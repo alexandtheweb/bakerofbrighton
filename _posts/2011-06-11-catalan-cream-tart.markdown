@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2011/06/P1020906-620x416.jpg
 published: true
 title: Catalan cream tart
 author:

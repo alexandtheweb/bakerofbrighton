@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2010/05/IMG_2684-copy.jpg
 published: true
 title: Cardamom Cranberry Cookies
 author:

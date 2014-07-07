@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2010/07/IMG_2779-copy-620x465.jpg
 published: true
 title: Strawberry mirror cheesecake
 author:

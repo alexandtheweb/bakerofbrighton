@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: 
 published: true
 title: 'Guide to: Infinity Foods Cooperative'
 author:

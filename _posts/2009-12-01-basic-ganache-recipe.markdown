@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: 
 published: true
 title: Basic ganache recipe
 author:

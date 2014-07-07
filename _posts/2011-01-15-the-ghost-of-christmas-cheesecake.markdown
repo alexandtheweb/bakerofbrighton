@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2011/01/P1010497-copy-620x431.jpg
 published: true
 title: The Ghost of Christmas Cheesecake
 author:

@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2010/07/IMG_2986-copy-620x447.jpg
 published: true
 title: Blackcurrant cream cake
 author:

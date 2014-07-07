@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2010/08/IMG_2990-copy-620x456.jpg
 published: true
 title: Raspberry matcha shortbread squares
 author:

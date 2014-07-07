@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2011/04/P1020216-copy-620x465.jpg
 published: true
 title: Sesame Sandwich Cookies
 author:

@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2010/03/IMG_2265-620x438.jpg
 published: true
 title: Absinthe Macarons
 author:

@@ -1,6 +1,7 @@
 ---
 layout: page
 status: publish
+thumbnail: /2009/11/me-267x167.jpg
 published: true
 title: About your host
 author:

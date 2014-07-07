@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2010/01/4198171194_11924eb49f_b.jpg
 published: true
 title: Crimbo Crumble
 author:

@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2010/06/IMG_2720-copy-620x465.jpg
 published: true
 title: Strawberry tartlets with basil-infused pastry cream
 author:

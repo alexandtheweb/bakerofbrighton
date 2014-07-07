@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2011/03/P1020209-copy-620x417.jpg
 published: true
 title: Cakes for Japan
 author:

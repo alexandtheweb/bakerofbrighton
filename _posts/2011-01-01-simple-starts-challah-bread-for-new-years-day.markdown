@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2011/01/P1010492-copy-620x465.jpg
 published: true
 title: 'Simple starts: Challah bread for New Year''s Day'
 author:

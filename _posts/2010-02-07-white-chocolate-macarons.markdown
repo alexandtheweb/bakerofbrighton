@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2010/02/IMG_1384-copy-620x465.jpg
 published: true
 title: White chocolate macarons
 author:

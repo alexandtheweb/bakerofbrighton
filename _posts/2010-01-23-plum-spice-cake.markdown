@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2010/01/IMG_0076-copy.jpg
 published: true
 title: Plum spice cake
 author:

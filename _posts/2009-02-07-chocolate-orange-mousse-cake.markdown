@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2009/02/IMG_5642-copy-619x464.jpg
 published: true
 title: Chocolate orange mousse cake
 author:

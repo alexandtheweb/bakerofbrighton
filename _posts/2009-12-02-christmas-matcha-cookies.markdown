@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2010/01/4136346749_60787555f3_b.jpg
 published: true
 title: Christmas Matcha cookies
 author:

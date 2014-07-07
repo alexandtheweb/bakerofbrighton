@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2010/03/IMG_2252-620x458.jpg
 published: true
 title: Toasted hazelnut and chocolate cake
 author:

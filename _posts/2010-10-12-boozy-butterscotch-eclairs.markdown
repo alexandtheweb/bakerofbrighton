@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2010/10/IMG_3075-copy-620x465.jpg
 published: true
 title: Boozy butterscotch eclairs
 author:

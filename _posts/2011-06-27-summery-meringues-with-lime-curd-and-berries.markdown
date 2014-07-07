@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2011/06/P1030087-620x445.jpg
 published: true
 title: Summery meringues with lime curd and berries
 author:

@@ -1,6 +1,7 @@
 ---
 layout: nav_menu_item
 status: publish
+thumbnail: 
 published: true
 title: Tips & core recipes
 author:

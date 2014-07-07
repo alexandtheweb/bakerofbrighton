@@ -1,6 +1,7 @@
 ---
 layout: page
 status: publish
+thumbnail: 
 published: true
 title: Brighton baking guide
 author:

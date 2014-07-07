@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2011/09/P1030277-copy-620x465.jpg
 published: true
 title: Apricot frangipane tartlets
 author:

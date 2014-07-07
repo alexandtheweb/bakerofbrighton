@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2010/01/IMG_1260-copy-620x465.jpg
 published: true
 title: Nom-tastic Nanaimo bars
 author:

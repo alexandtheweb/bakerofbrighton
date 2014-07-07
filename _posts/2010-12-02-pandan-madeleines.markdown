@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2010/12/P1010282-copy-620x465.jpg
 published: true
 title: Pandan madeleines
 author:

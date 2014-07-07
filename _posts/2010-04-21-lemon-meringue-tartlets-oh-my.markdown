@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2010/04/IMG_2381-copy-620x464.jpg
 published: true
 title: Lemon meringue tartlets, oh my
 author:

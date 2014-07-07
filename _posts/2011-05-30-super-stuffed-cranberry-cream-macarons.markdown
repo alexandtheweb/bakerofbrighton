@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2011/05/P1020268-copy-620x465.jpg
 published: true
 title: Super-stuffed cranberry cream macarons
 author:

@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2011/01/P1010512-copy-620x432.jpg
 published: true
 title: Seville Orange Pound Cake
 author:

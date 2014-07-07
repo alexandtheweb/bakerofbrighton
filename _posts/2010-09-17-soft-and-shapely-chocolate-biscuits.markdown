@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2010/09/IMG_3031-copy-620x465.jpg
 published: true
 title: Soft and shapely chocolate biscuits
 author:

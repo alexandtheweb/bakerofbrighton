@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2011/02/P1010908-copy-620x435.jpg
 published: true
 title: Rhubarb Mousse Cake for Valentine's Day
 author:

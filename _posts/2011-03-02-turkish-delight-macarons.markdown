@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2011/03/P1010941-copy-620x440.jpg
 published: true
 title: Turkish Delight Macarons
 author:

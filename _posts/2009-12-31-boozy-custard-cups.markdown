@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2010/01/4232079692_0828eb5cae_b.jpg
 published: true
 title: Boozy custard cups
 author:

@@ -1,6 +1,7 @@
 ---
 layout: post
 status: publish
+thumbnail: /2010/01/3843355598_0cb1c190eb_b-620x461.jpg
 published: true
 title: 'Pistachio cardamom cake '
 author:
