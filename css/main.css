@@ -109,6 +109,29 @@ a:visited { color: rgb(73, 174, 157); }
   filter: saturate(1.5);
 }
 
+.site-header {
+  padding: 3em 0;
+  text-align: center;
+  background: rgb(98, 205, 189);
+  margin-bottom: 1em;
+}
+
+.title {
+  margin: 0;
+  font-family: 'Great Vibes', serif;
+  font-size: 4em;
+}
+
+.title a {
+  color: white;
+  display: block;
+}
+
+.title a:hover {
+  color: black;
+}
+
+
 /* Post */
 
 .post header {
